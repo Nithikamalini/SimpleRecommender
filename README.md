@@ -20,3 +20,4 @@ For example, if User A and User B have similar tastes, and User B liked a produc
 
 The SimpleRecommender is modular, scalable, and can be extended to support item-based recommendations, real-time updates, or integration with web applications. It's an ideal solution for e-commerce platforms, streaming services, or content portals aiming to improve user engagement through smart, data-driven suggestions.
 #OUTPUT 
+<img width="876" height="246" alt="Image" src="https://github.com/user-attachments/assets/cfb7a8b1-2151-4ea4-875c-c7e7e0b0b0b3" />
